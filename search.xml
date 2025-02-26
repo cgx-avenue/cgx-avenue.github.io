@@ -21,6 +21,20 @@
   <entry>
     <title>newhelloworld</title>
     <url>/posts/86e884df/</url>
+    <content><![CDATA[<p><img src="/images/pasted-0.png" alt="upload successful"></p>
+]]></content>
+      <categories>
+        <category>cat1</category>
+        <category>cat2</category>
+      </categories>
+      <tags>
+        <tag>tag1</tag>
+        <tag>tag2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>my1stpost</title>
+    <url>/posts/c04dcf1/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>cat1</category>
