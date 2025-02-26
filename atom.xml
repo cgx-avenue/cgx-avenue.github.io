@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CGX-Avenue</title>
+  
+  <subtitle>Record life and work</subtitle>
+  <link href="https://cgx-avenue.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://cgx-avenue.github.io/"/>
+  <updated>2025-02-25T07:29:17.321Z</updated>
+  <id>https://cgx-avenue.github.io/</id>
+  
+  <author>
+    <name>YSP</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>newhelloworld</title>
+    <link href="https://cgx-avenue.github.io/posts/86e884df/"/>
+    <id>https://cgx-avenue.github.io/posts/86e884df/</id>
+    <published>2025-02-25T07:29:17.000Z</published>
+    <updated>2025-02-25T07:29:17.321Z</updated>
+    
+    
+    
+    
+    <category term="cat1" scheme="https://cgx-avenue.github.io/categories/cat1/"/>
+    
+    <category term="cat2" scheme="https://cgx-avenue.github.io/categories/cat1/cat2/"/>
+    
+    
+    <category term="tag1" scheme="https://cgx-avenue.github.io/tags/tag1/"/>
+    
+    <category term="tag2" scheme="https://cgx-avenue.github.io/tags/tag2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://cgx-avenue.github.io/posts/4a17b156/"/>
+    <id>https://cgx-avenue.github.io/posts/4a17b156/</id>
+    <published>2025-02-25T05:50:58.284Z</published>
+    <updated>2025-02-25T05:50:58.284Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
