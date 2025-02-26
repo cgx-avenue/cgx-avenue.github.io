@@ -166,3 +166,9 @@ search:
   field: post
   content: true
   format: html
+
+local_search:
+  enabled: true
+  trigger: auto
+  top_n_per_article: 1
+  unescape: false
