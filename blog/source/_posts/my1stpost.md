@@ -9,6 +9,7 @@ categories:
 abbrlink: c04dcf1
 date: 2025-02-26 14:31:24
 comments: true
+password: 123456
 ---
 
 I changed the default branch to hexo.
