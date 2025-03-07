@@ -8,7 +8,9 @@ subtitle: 'Record life and work'
 description: ''
 keywords: blog, tech, life, record
 author: YSP
-language: zh-CN
+language: 
+- zh-CN
+- en
 timezone: 'Asia/Shanghai'
 
 # URL
