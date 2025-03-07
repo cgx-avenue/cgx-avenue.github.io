@@ -168,12 +168,9 @@ search:
   field: post
   content: true
   format: html
+  limit: 10000
 
-local_search:
-  enabled: true
-  trigger: auto
-  top_n_per_article: 1
-  unescape: false
+
 
 giscus:
   enable: true
