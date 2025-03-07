@@ -21,8 +21,18 @@
   <entry>
     <title>my1stpost</title>
     <url>/posts/c04dcf1/</url>
-    <content><![CDATA[<p>I changed the default branch to hexo.</p>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="e7ac8ccf0ef85c736a2cbe7e0b0097d32f69527a5d6f5f3e9b610d3d48a84d3e">10d79030e8222445804370796b90fca1113a5290e5cfd7ae5f9805c9aa17597093b62525539c218b17c6fd843369f8bd150dd0b19d147a17c055591b7642c58d97dd0c48eacdfda11f4ea34cbb81b4a1</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>cat1</category>
         <category>cat2</category>
