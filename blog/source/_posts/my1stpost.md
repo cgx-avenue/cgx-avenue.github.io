@@ -10,6 +10,7 @@ abbrlink: c04dcf1
 date: 2025-02-26 14:31:24
 comments: true
 top: 100
+password: hello
 ---
 
 I changed the default branch to hexo.
